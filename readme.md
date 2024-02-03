@@ -14,9 +14,6 @@
 | train.csv    |  file    | Shape (106800, 19)    |
 
 **train.csv**
-eeg_id,eeg_sub_id,eeg_label_offset_seconds,spectrogram_id,spectrogram_sub_id,spectrogram_label_offset_seconds,label_id,patient_id,expert_consensus,seizure_vote,lpd_vote,gpd_vote,lrda_vote,grda_vote,other_vote
-1628180742,0,0.0,353733,0,0.0,127492639,42516,Seizure,3,0,0,0,0,0
-1628180742,1,6.0,353733,1,6.0,3887563113,42516,Seizure,3,0,0,0,0,0
 
 
 
